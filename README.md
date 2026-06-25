@@ -1,19 +1,15 @@
 <div align="center">
 # Hi, I'm Dhawal 👋
  
-**AI/ML Enthusiast • CSE (AI & ML) Student • Builder of Intelligent Systems**
+**AI/ML Enthusiast · CSE (AI & ML) Student · Builder of Intelligent Systems**
  
-[![Profile Views](https://visitcount.itsvg.in/api?id=MythAkaDhawal&icon=2&color=0)](https://visitcount.itsvg.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhawal-lamba)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mythx0x01@gmail.com)
  
 </div>
 ---
  
-<table width="100%">
-<tr>
-<td valign="top" width="65%">
 ### About Me
- 
-Building intelligent systems with a strong focus on practical AI.
  
 - 🔭 Currently working on AI/ML projects, intelligent systems, and innovative software ideas
 - 👯 Looking to collaborate on AI, machine learning, and impactful tech projects
@@ -21,16 +17,6 @@ Building intelligent systems with a strong focus on practical AI.
 - 🌱 Learning deep learning, data science, system design, and advanced AI development
 - 💬 Ask me about AI/ML, programming, tech innovation, and building meaningful projects
 - ⚡ Not just learning tech — building toward powerful, future-scale systems
-</td>
-<td valign="top" width="35%" align="center">
-### Connect
- 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhawal-lamba)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mythx0x01@gmail.com)
- 
-</td>
-</tr>
-</table>
 ---
  
 ### 💻 Tech Stack
@@ -57,7 +43,7 @@ Building intelligent systems with a strong focus on practical AI.
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=white)
  
 **Databases**
  
@@ -72,15 +58,13 @@ Building intelligent systems with a strong focus on practical AI.
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
 ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
  
 **Tools**
  
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
  
 ---
  
@@ -100,22 +84,6 @@ Building intelligent systems with a strong focus on practical AI.
  
 <div align="center">
 ![Trophies](https://github-profile-trophy.vercel.app/?username=MythAkaDhawal&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
- 
-</div>
----
- 
-### 🔝 Top Contributed Repos
- 
-<div align="center">
-![Top Contributions](https://github-contributor-stats.vercel.app/api?username=MythAkaDhawal&limit=5&theme=dark&combine_all_yearly_contributions=true)
- 
-</div>
----
- 
-<div align="center">
-*💡 Random Dev Quote*
- 
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark)
  
 </div>
  
