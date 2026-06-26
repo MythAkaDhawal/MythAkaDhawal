@@ -175,14 +175,25 @@ If something I built is useful to you, feel free to fork it, open an issue, or r
 
 ## 📬 Connect
 
+<!-- 
+  ⚠️  SETUP REQUIRED — replace every YOUR_... token below with your real info, then delete this comment block.
+  
+  YOUR_LINKEDIN_URL     → e.g. https://linkedin.com/in/dhawal-lamba
+  YOUR_PORTFOLIO_URL    → e.g. https://dhawal.dev
+  YOUR_EMAIL            → e.g. dhawal@example.com
+  YOUR_LEETCODE_USER    → e.g. MythAkaDhawal
+  YOUR_CF_USER          → e.g. MythAkaDhawal
+  YOUR_DISCORD_URL      → a discord.gg invite link, or remove that badge entirely
+-->
+
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](<<FILL_LINKEDIN_URL>>)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](<<FILL_PORTFOLIO_URL>>)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:<<FILL_EMAIL>>)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/<<FILL_LEETCODE_USERNAME>>)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/<<FILL_CF_USERNAME>>)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](<<FILL_DISCORD_URL_OR_TAG>>)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_URL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO_URL)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/YOUR_LEETCODE_USER)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/YOUR_CF_USER)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://YOUR_DISCORD_URL)
 
 </div>
 
@@ -199,17 +210,14 @@ If something I built is useful to you, feel free to fork it, open an issue, or r
 
 <div align="center">
 
-<!-- Contribution graph snake animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MythAkaDhawal/MythAkaDhawal/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MythAkaDhawal/MythAkaDhawal/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/MythAkaDhawal/MythAkaDhawal/output/github-contribution-grid-snake.svg">
-</picture>
+<!-- Activity graph — live-rendered, no setup required -->
+[![Dhawal's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MythAkaDhawal&theme=tokyo-night&hide_border=true&area=true)](https://github.com/MythAkaDhawal)
 
-<br/><br/>
+<br/>
 
 *Building in public. Learning out loud.*
 
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+<!-- Footer wave — capsule-render, stable on GitHub dark + light mode -->
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=6E56CF&height=100&section=footer)
 
 </div>
