@@ -18,14 +18,14 @@
 dhawal = {
     "name":        "Dhawal Lamba",
     "alias":       "Myth",
-    "stage":       "CS Undergrad — Year 1/2",
+    "stage":       "CS Undergrad — Year 2",
     "interests":   ["Machine Learning", "NLP", "Web Dev", "Systems", "Cybersecurity"],
     "currently":   "Building things that are small but real",
     "philosophy":  "Understand deeply. Build honestly. Iterate fast.",
 }
 ```
 
-I'm a first-year CS student who builds prototypes to learn by doing — RAG pipelines, browser security tools, full-stack platforms. I care more about understanding why something works than just making it run.
+I'm a second-year CS student who builds prototypes to learn by doing — RAG pipelines, browser security tools, full-stack platforms. I care more about understanding why something works than just making it run.
 
 ---
 
