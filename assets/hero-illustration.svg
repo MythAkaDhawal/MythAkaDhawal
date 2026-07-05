@@ -1,0 +1,112 @@
+<svg width="800" height="420" viewBox="0 0 800 420" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGlow" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0D1117"/>
+      <stop offset="100%" stop-color="#0D1117"/>
+    </linearGradient>
+    <linearGradient id="deskTop" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#134E4A"/>
+      <stop offset="100%" stop-color="#0F766E"/>
+    </linearGradient>
+    <linearGradient id="deskLeft" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#0B3B38"/>
+      <stop offset="100%" stop-color="#082A28"/>
+    </linearGradient>
+    <linearGradient id="deskRight" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#0F766E"/>
+      <stop offset="100%" stop-color="#0B4A46"/>
+    </linearGradient>
+    <linearGradient id="screenGlow" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#22D3EE"/>
+      <stop offset="100%" stop-color="#2DD4BF"/>
+    </linearGradient>
+    <linearGradient id="figureBody" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#2DD4BF"/>
+      <stop offset="100%" stop-color="#0F766E"/>
+    </linearGradient>
+    <radialGradient id="ambient" cx="50%" cy="40%" r="60%">
+      <stop offset="0%" stop-color="#134E4A" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#0D1117" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <!-- Ambient glow, transparent-friendly background -->
+  <rect x="0" y="0" width="800" height="420" fill="url(#ambient)"/>
+
+  <!-- Floating code symbols -->
+  <g font-family="JetBrains Mono, monospace" font-weight="600" fill="#2DD4BF" opacity="0.85">
+    <text x="90" y="90" font-size="26">&lt;/&gt;</text>
+    <animateTransform attributeName="transform" type="translate"
+      values="0 0; 0 -12; 0 0" dur="4s" repeatCount="indefinite"/>
+  </g>
+  <g font-family="JetBrains Mono, monospace" font-weight="600" fill="#22D3EE" opacity="0.7">
+    <text x="640" y="70" font-size="22">01</text>
+    <animateTransform attributeName="transform" type="translate"
+      values="0 0; 0 -10; 0 0" dur="3.4s" repeatCount="indefinite"/>
+  </g>
+  <g font-family="JetBrains Mono, monospace" font-weight="600" fill="#5EEAD4" opacity="0.75">
+    <text x="680" y="200" font-size="20">{ }</text>
+    <animateTransform attributeName="transform" type="translate"
+      values="0 0; 0 -14; 0 0" dur="5s" repeatCount="indefinite"/>
+  </g>
+  <g font-family="JetBrains Mono, monospace" font-weight="600" fill="#2DD4BF" opacity="0.6">
+    <text x="60" y="300" font-size="18">AI</text>
+    <animateTransform attributeName="transform" type="translate"
+      values="0 0; 0 10; 0 0" dur="4.6s" repeatCount="indefinite"/>
+  </g>
+
+  <!-- Isometric desk platform -->
+  <g transform="translate(400,300)">
+    <!-- top face -->
+    <polygon points="-180,-40 0,-110 180,-40 0,30" fill="url(#deskTop)"/>
+    <!-- left face -->
+    <polygon points="-180,-40 0,30 0,90 -180,20" fill="url(#deskLeft)"/>
+    <!-- right face -->
+    <polygon points="180,-40 0,30 0,90 180,20" fill="url(#deskRight)"/>
+  </g>
+
+  <!-- Isometric monitor -->
+  <g transform="translate(400,175)">
+    <animateTransform attributeName="transform" type="translate"
+      values="400,175; 400,168; 400,175" dur="3.8s" repeatCount="indefinite" additive="sum"/>
+    <!-- stand -->
+    <rect x="-8" y="55" width="16" height="24" fill="#0B4A46"/>
+    <polygon points="-30,79 30,79 20,90 -20,90" fill="#082A28"/>
+    <!-- screen back -->
+    <polygon points="-70,-60 0,-95 70,-60 0,-25" fill="#0B4A46"/>
+    <!-- screen face -->
+    <polygon points="-70,-60 0,-25 0,45 -70,10" fill="#0D1117"/>
+    <polygon points="70,-60 0,-25 0,45 70,10" fill="#111827"/>
+    <!-- glowing display -->
+    <polygon points="-58,-52 0,-22 0,32 -58,2" fill="url(#screenGlow)" opacity="0.85"/>
+    <text x="-56" y="-30" font-family="JetBrains Mono, monospace" font-size="9" fill="#0D1117">def build():</text>
+    <text x="-56" y="-14" font-family="JetBrains Mono, monospace" font-size="9" fill="#0D1117">  ship_it()</text>
+  </g>
+
+  <!-- Isometric keyboard on desk -->
+  <g transform="translate(400,255)">
+    <polygon points="-60,10 20,-30 100,10 20,50" fill="#134E4A" stroke="#0B4A46" stroke-width="1"/>
+  </g>
+
+  <!-- Seated low-poly figure -->
+  <g transform="translate(300,235)">
+    <animateTransform attributeName="transform" type="translate"
+      values="300,235; 300,230; 300,235" dur="3.8s" repeatCount="indefinite" additive="sum"/>
+    <!-- chair back -->
+    <rect x="-6" y="-40" width="14" height="60" rx="4" fill="#0B3B38"/>
+    <!-- torso (hoodie block) -->
+    <polygon points="-34,-40 0,-58 34,-40 34,10 0,28 -34,10" fill="url(#figureBody)"/>
+    <!-- head -->
+    <ellipse cx="0" cy="-78" rx="20" ry="22" fill="#5EEAD4"/>
+    <!-- simple hair/hood -->
+    <path d="M -20,-88 Q 0,-108 20,-88 L 20,-78 Q 0,-96 -20,-78 Z" fill="#0F766E"/>
+    <!-- arm reaching toward keyboard -->
+    <polygon points="20,-20 60,-8 56,4 18,-6" fill="#2DD4BF"/>
+    <!-- legs -->
+    <polygon points="-20,10 6,20 6,44 -20,34" fill="#0B4A46"/>
+    <polygon points="10,10 34,20 34,44 10,34" fill="#0B4A46"/>
+  </g>
+
+  <!-- Subtle floor shadow -->
+  <ellipse cx="400" cy="360" rx="220" ry="18" fill="#000000" opacity="0.25"/>
+</svg>
