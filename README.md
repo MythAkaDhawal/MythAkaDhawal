@@ -1,12 +1,17 @@
 <div align="center">
 
-<!-- Animated typing banner via readme-typing-svg -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=6E56CF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Dhawal+%F0%9F%91%8B;CS+Undergrad+%7C+Builder+%7C+AI%2FML+Explorer;Turning+ideas+into+working+prototypes;Always+learning%2C+always+shipping)](https://git.io/typing-svg)
+<!-- Animated typing banner — Cyber Teal -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=2DD4BF&background=0D1117&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Dhawal+%F0%9F%91%8B;CS+Undergrad+%7C+Builder+%7C+AI%2FML+Explorer;Turning+ideas+into+working+prototypes;Always+learning%2C+always+shipping)](https://git.io/typing-svg)
+
+<br/>
+
+<!-- Hero illustration: isometric coding scene -->
+<img src="./assets/hero-illustration.svg" width="720" alt="Isometric illustration of a developer coding at a desk"/>
 
 <br/>
 
 <!-- Visitor counter -->
-![Visitor Count](https://komarev.com/ghpvc/?username=MythAkaDhawal&style=flat-square&color=6E56CF&label=Profile+Views)
+![Visitor Count](https://komarev.com/ghpvc/?username=MythAkaDhawal&style=flat-square&color=2DD4BF&label=Profile+Views)
 
 </div>
 
@@ -32,7 +37,7 @@ I'm a second-year CS student who builds prototypes to learn by doing — RAG pip
 ## 🔭 Current Focus
 
 - Deepening my understanding of **retrieval-augmented generation** and how grounding LLM outputs improves reliability
-- Exploring **NLP-based security** — text classification, phishing detection, adversarial inputs  
+- Exploring **NLP-based security** — text classification, phishing detection, adversarial inputs
 - Getting comfortable with **full-stack architecture** (React + FastAPI + PostgreSQL)
 - Practicing **C++ fundamentals** — OOP, memory management, data structures
 - Reading up on ML systems: embeddings, vector search, and model serving
@@ -85,7 +90,7 @@ I'm a second-year CS student who builds prototypes to learn by doing — RAG pip
 
 Ingests PDF documents, chunks and indexes them, retrieves the most relevant passages for a question, and uses the **Gemini API** to produce answers that link back to source citations — so you always know where an answer came from.
 
-`Python` `Gemini API` `scikit-learn (TF-IDF)` `pytest`  
+`Python` `Gemini API` `scikit-learn (TF-IDF)` `pytest`
 *CLI prototype · Vector retrieval planned*
 
 </td>
@@ -96,7 +101,7 @@ Ingests PDF documents, chunks and indexes them, retrieves the most relevant pass
 
 A browser extension that uses NLP text classification to flag suspicious messages and phishing attempts before a user interacts with them. Backend served via FastAPI; ML pipeline built with scikit-learn.
 
-`Python` `FastAPI` `scikit-learn` `JavaScript` `Chrome Extension`  
+`Python` `FastAPI` `scikit-learn` `JavaScript` `Chrome Extension`
 *Public · Cross-browser (Chrome / Edge)*
 
 </td>
@@ -109,7 +114,7 @@ A browser extension that uses NLP text classification to flag suspicious message
 
 Takes a voice note or audio recording as input and generates structured, readable lecture notes using an AI API. Built entirely in TypeScript — designed around the real pain of keeping up with lectures.
 
-`TypeScript` `AI API (audio)` `CSS`  
+`TypeScript` `AI API (audio)` `CSS`
 *Public · Student productivity tool*
 
 </td>
@@ -120,7 +125,7 @@ Takes a voice note or audio recording as input and generates structured, readabl
 
 A social platform for hostel students to find peers by interest, plan collaborative events, and exchange help with tasks or items. Full-stack with JWT auth, PostgreSQL, and a React + Zustand frontend.
 
-`React 18` `TypeScript` `FastAPI` `PostgreSQL` `SQLAlchemy` `JWT`  
+`React 18` `TypeScript` `FastAPI` `PostgreSQL` `SQLAlchemy` `JWT`
 *Prototype stage · Frontend on Vercel*
 
 </td>
@@ -133,15 +138,15 @@ A social platform for hostel students to find peers by interest, plan collaborat
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MythAkaDhawal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MythAkaDhawal&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=2DD4BF&icon_color=22D3EE&text_color=C9D1D9" alt="GitHub Stats"/>
 &nbsp;&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MythAkaDhawal&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MythAkaDhawal&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=2DD4BF&text_color=C9D1D9" alt="Top Languages"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=MythAkaDhawal&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=MythAkaDhawal&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0D1117&ring=2DD4BF&fire=22D3EE&currStreakLabel=2DD4BF&sideLabels=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="GitHub Streak"/>
 
 </div>
 
@@ -175,25 +180,12 @@ If something I built is useful to you, feel free to fork it, open an issue, or r
 
 ## 📬 Connect
 
-<!-- 
-  ⚠️  SETUP REQUIRED — replace every YOUR_... token below with your real info, then delete this comment block.
-  
-  YOUR_LINKEDIN_URL     → e.g. https://linkedin.com/in/dhawal-lamba
-  YOUR_PORTFOLIO_URL    → e.g. https://dhawal.dev
-  YOUR_EMAIL            → e.g. dhawal@example.com
-  YOUR_LEETCODE_USER    → e.g. MythAkaDhawal
-  YOUR_CF_USER          → e.g. MythAkaDhawal
-  YOUR_DISCORD_URL      → a discord.gg invite link, or remove that badge entirely
--->
-
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_URL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO_URL)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/YOUR_LEETCODE_USER)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/YOUR_CF_USER)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://YOUR_DISCORD_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhawal-lamba)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://dhawal-lamba-portfolio.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mythx0x01@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Dhawal_Lamba)
 
 </div>
 
@@ -210,14 +202,14 @@ If something I built is useful to you, feel free to fork it, open an issue, or r
 
 <div align="center">
 
-<!-- Activity graph — live-rendered, no setup required -->
-[![Dhawal's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MythAkaDhawal&theme=tokyo-night&hide_border=true&area=true)](https://github.com/MythAkaDhawal)
+<!-- Activity graph — live-rendered, Cyber Teal -->
+[![Dhawal's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MythAkaDhawal&hide_border=true&area=true&bg_color=0D1117&color=2DD4BF&line=22D3EE&point=C9D1D9)](https://github.com/MythAkaDhawal)
 
 <br/>
 
 *Building in public. Learning out loud.*
 
-<!-- Footer wave — capsule-render, stable on GitHub dark + light mode -->
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=6E56CF&height=100&section=footer)
+<!-- Footer wave — capsule-render, Cyber Teal gradient -->
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:2DD4BF&height=100&section=footer)
 
 </div>
